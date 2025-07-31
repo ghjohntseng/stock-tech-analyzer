@@ -1,0 +1,23 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Matplotlib plots
+*.png
+*.pdf
+
+# VS Code settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# PyInstaller
+dist/
+build/
+*.spec
