@@ -78,5 +78,5 @@ MIT License
 
 ## 👤 Author
 
-[Your Name] – Python & Quant Enthusiast  
+John Tseng (https://www.linkedin.com/in/chunchieh-t/) – Python & Quant Enthusiast  
 Feel free to fork and customize! Pull requests welcome!
